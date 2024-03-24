@@ -12,10 +12,12 @@ This is a shell implemented in C as a university assignment for an operating sys
 ## Areas for Improvement
 
 - **Pipeline Implementation**: The pipeline implementation could be optimized for better performance and reliability. There were some rare cases where the pipeline got stuck, unlike the behavior of the Bash shell.
-  
 - **Function Modularity**: Some functions could be broken down into smaller, more modular components for better readability and maintainability.
-  
 - **Debug Messages**: While debug messages were provided, they could be enhanced by redirecting them to a log file for better organization and analysis.
+
+## Code Review
+
+This shell implementation was reviewed on [Code Review](https://codereview.stackexchange.com/questions/191914/yet-another-shell-in-c). Check out the feedback and suggestions provided there.
 
 ## Usage
 
