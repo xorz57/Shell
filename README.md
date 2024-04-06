@@ -21,10 +21,6 @@ This shell implementation was reviewed on [Code Review](https://codereview.stack
 
 ## Usage
 
-### Prerequisites
-
-- C compiler (e.g., GCC)
-
 ### Compilation
 
 ```bash
